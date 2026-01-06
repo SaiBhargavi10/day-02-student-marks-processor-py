@@ -1,0 +1,15 @@
+Student Marks Report
+------------------------------------------------------------
+101 | Aarav | Total: 163 | Avg: 54.33 | Grade: D | Result: FAIL
+102 | Diya | Total: 275 | Avg: 91.67 | Grade: A | Result: PASS
+103 | Rohan | Total: 173 | Avg: 57.67 | Grade: D | Result: PASS
+104 | Ananya | Total: 140 | Avg: 46.67 | Grade: F | Result: FAIL
+
+Class Topper: Diya (91.67)
+
+Grade Distribution:
+A: 1
+B: 0
+C: 0
+D: 2
+F: 1
